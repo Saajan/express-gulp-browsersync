@@ -1,0 +1,17 @@
+{
+  "name": "sherlock",
+  "version": "0.0.1",
+  "dependencies": {
+    "bootstrap-sass": "~3.3.5",
+    "modernizr": "~2.8.1",
+    "angularjs": "~1.3.2",
+    "angular-route": "~1.3.2",
+    "jquery": "~2.1.1",
+    "angular-bootstrap": "~0.13.0"
+  },
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "components"
+  ]
+}
