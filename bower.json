@@ -1,5 +1,5 @@
 {
-  "name": "sherlock",
+  "name": "sherlock browsersync gulp",
   "version": "0.0.1",
   "dependencies": {
     "bootstrap-sass": "~3.3.5",
