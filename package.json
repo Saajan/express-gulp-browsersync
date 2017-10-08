@@ -1,17 +1,14 @@
 {
-  "name": "express browersync gulp",
+  "name": "express-browersync-gulp",
   "version": "0.0.1",
   "private": true,
   "main": "app.js",
   "scripts": {
-    "build":"",
+    "build": "",
     "dev": "npm run frontend & npm run server",
-    "frontend":"gulp",
-    "server":"node ./bin/www",
-    "test": "mocha --recursive test",
-    "test:coverage": "nyc npm test",
-    "test:unit": "mocha --recursive test/middleware test/models test/routes",
-    "test:integration": "mocha --recursive test/integration"
+    "frontend": "gulp",
+    "server": "node ./bin/www",
+    "test": "mocha --recursive test"
   },
   "dependencies": {
     "express": "^4.13.3",
